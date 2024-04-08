@@ -1,0 +1,6 @@
+Poruszanie = WASD LUB Strzałki
+Przeładowywanie = R
+Strzał = Lewy Przycisk myszy
+Zmiana Broni = 1,2,3 itp. LUB kółko myszy.
+Skok = spacja
+Bieganie = Shift
